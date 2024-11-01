@@ -47,7 +47,7 @@
 
 # print(twoSum([2,7,8,11],9))
 
-arrUp = [14,13,12,10,9,8,7,6,5,4,3,2,1]
+arrUp = [1,3,5,4,6]
 def bubleSort(nums):
     for _ in range(len(nums) -1):
         for i in range(len(nums) - 1):
